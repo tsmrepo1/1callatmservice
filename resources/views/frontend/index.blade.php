@@ -182,7 +182,7 @@ $services = DB::table('services')->where('status', 1)->get();
                                 <p>
                                     {!!$home->about_desc!!}
                                 </p>
-                                <a href="{{$home->about_button_url}}">Read More</a>
+                                <a href="{{$home->about_button_url}}" class="read__more">Read More</a>
                             </div>
                         </div>
                     </div>
