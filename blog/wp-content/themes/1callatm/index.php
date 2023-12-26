@@ -46,7 +46,7 @@ get_header();
 								</ul>
 							</li>
 							<li>
-								<a href="https://1callatmservice.com/blogs">Blogs</a>
+								<a href="https://1callatmservice.com/blog">Blogs</a>
 							</li>
 							<li>
 								<a href="https://1callatmservice.com/contact-us">Contact Us</a>
