@@ -119,7 +119,7 @@ $services = DB::table('services')->where('status', 1)->get();
                                     <a href="{{route('products')}}">Products </a>
                                 </li>
                                 <li>
-                                    <a href="{{route('blogs')}}">Blog</a>
+                                    <a href="/blog">Blog</a>
                                 </li>
                                 <li class="dropdown">
                                     <a class="dropdown-toggle" data-toggle="dropdown" href="#">Service </a>
