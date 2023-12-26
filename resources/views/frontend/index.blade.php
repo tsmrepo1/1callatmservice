@@ -9,6 +9,7 @@ $services = DB::table('services')->where('status', 1)->get();
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/png" href="{{ asset('public/frontend/assets/images/fav.png') }}" sizes="32x32">
     <link href="{{asset('public/frontend')}}/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
     <link href="{{asset('public/frontend')}}/assets/css/custom-style.css" rel="stylesheet" />
     <link href="{{asset('public/frontend')}}/assets/css/responsive.css" rel="stylesheet" />
