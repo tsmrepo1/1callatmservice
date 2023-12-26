@@ -149,8 +149,8 @@ Route::get('/products', [FocusProductsController::class, 'products'])->name('pro
 Route::get('/product-details/{slug}', [FocusProductsController::class, 'product_details'])->name('product_details');
 #Route::get('/category/{id}', [FocusProductsController::class, 'product_cat'])->name('product_cat');
 Route::get('/category/{slug}', [FocusProductsController::class, 'product_cat'])->name('product_cat');
-Route::get('/blogs', [BlogController::class, 'blogs'])->name('blogs');
-Route::get('/blog-details/{slug}', [BlogController::class, 'blog_details'])->name('blog_details');
+// Route::get('/blogs', [BlogController::class, 'blogs'])->name('blogs');
+// Route::get('/blog-details/{slug}', [BlogController::class, 'blog_details'])->name('blog_details');
 Route::get('/contact-us', [ContactController::class, 'contact_us'])->name('contact_us');
 Route::post('/contact-form-action', [ContactController::class, 'contact_form_action'])->name('contact_form_action');
 Route::post('/service-enquiry-form-action', [ContactController::class, 'service_enquiry_form_action'])->name('service_enquiry_form_action');
