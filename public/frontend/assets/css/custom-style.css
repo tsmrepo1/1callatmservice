@@ -115,8 +115,8 @@ font-variant-numeric: lining-nums;}
   padding-bottom: 15px; margin:70px 0 0 0;} 
 .main__body__wrapp .header__banner__main .banner__contain h1{font-size: 60px; font-weight: 700; color: #fff; padding-bottom: 15px; margin: 25px 0 0 0;} 
 .main__body__wrapp .header__banner__main .banner__contain p{ font-size: 16px; color: #fff; line-height: 26px; max-width: 600px;}
-.main__body__wrapp .header__banner__main .banner__contain a{ background: #c70000; color: #fff; text-align: center; text-transform: uppercase; display: inline-block; padding: 15px 60px;
-margin: 66px 0 220px;}
+.main__body__wrapp .header__banner__main .banner__contain a{color: #fff; text-align: center; text-transform: uppercase; display: inline-block; padding: 15px 0px;
+}
 .atm__all{width: 92%; margin: -75px auto 0 auto;}
 .shadowone{width: 100%; padding: 0px 0 124px; position: relative;}
 .shadow__all{position: absolute;right: -73px; top: -22px;}
