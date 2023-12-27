@@ -136,7 +136,7 @@ top: 1px;}
 display: inline-block; margin: 47px 0 0 0; border-radius: 100px;}
 .about__holder h2{font-size: 47px; color: #000; font-weight: 700; margin: 25px 0 40px 0;}
 .about__holder p{font-size: 16px; color: #000; line-height: 26px;}
-.read__more{ font-size: 18px; color: #fff; background: #c70000; padding: 15px 40px; text-transform: uppercase; display: inline-block;margin: 28px 0 0 0;}
+.read__more{ font-size: 18px; color: #fff; background: #c70000; padding: 15px 40px !important; text-transform: uppercase; display: inline-block;margin: 28px 0 0 0;}
 .about__holder::after{position: absolute; content: ""; width: 75px; height: 262px; background: url(../images/red.png) no-repeat right;top: 29px;
 right: -73px;z-index: -1;}
 
