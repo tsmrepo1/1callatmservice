@@ -157,7 +157,7 @@ right: 19px;z-index:1;}
 .card__wrapp .cardproduct img{ margin: 0 auto 0 auto; display: block;object-fit: cover;}
 .blog__wrapp{width: 100%; background: #c70000; padding: 60px 0;}
 .blog__wrapp h2{color: #fff; text-align: center; font-size: 47px; margin: 0 0 40px;}
-.bg__one{background: #fff; padding-bottom: 25px;}
+.bg__one{background: #fff; padding-bottom: 25px; height:100%;}
 .blog__text{padding: 20px;}
 .blog__text h3{margin-bottom: 25px;}
 .blog__text a{display: block;}
