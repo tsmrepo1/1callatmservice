@@ -157,7 +157,7 @@ right: 19px;z-index:1;}
 .product__wrapp h2{font-size: 47px; color:#c70000; font-weight: 700; margin: 25px 0 40px 0; text-align: center;}
 .card__wrapp{width: 100%; padding-bottom: 25px; background: #fff; box-shadow: 0 10px 38px rgba(0,0,0,0.1);}
 .card__wrapp .cardproduct{width: 100%; background: #e5e5e5;}
-.card__wrapp h4{font-weight: 700; color: #000; text-align: center; margin: 30px 0; font-size: 16px;}
+.card__wrapp h4{font-weight: 700; color: #000; text-align: center; margin: 30px 0; font-size: 16px; height: 100%;}
 .card__wrapp a{display:block; text-align: center; color: #fff; text-transform: uppercase; margin: 0 auto 0 auto; font-size: 18px; 
   background: #c70000; width: 210px; height: 60px; line-height: 60px;}
 .card__wrapp .cardproduct img{height:300px; margin: 0 auto 0 auto; display: block;width:100%;}
