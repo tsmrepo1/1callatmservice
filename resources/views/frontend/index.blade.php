@@ -146,7 +146,7 @@ $services = DB::table('services')->where('status', 1)->get();
                                     <p class="line-clamp line-clamp--5">
                                         {!!$home->description!!}
                                     </p>
-                                    <a href="{{$home->button_url}}">get started</a>
+                                    <a href="{{$home->button_url}}" class="read__more">get started</a>
                                 </div>
                             </div>
                             <div class="col-sm-12 col-md-5 col-lg-5 col-xl-5">
